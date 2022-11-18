@@ -1,0 +1,31 @@
+body{
+  background-color:#ffdbd7
+}
+
+h{
+  font-size: 65px; color:#99120E ; font-family: inherit; text-align: center;
+
+}
+
+
+
+h2{
+  font-size: 50px; color:#99120E; font-family: sans-serif; text-align: left;
+}
+
+ul{
+  font-size: 30px; color:#f8fef4; font-family: sans-serif; text-align: left;
+
+}
+
+
+
+
+
+
+
+
+img {
+  margin-left: 35%;
+  width: 30%;
+}
